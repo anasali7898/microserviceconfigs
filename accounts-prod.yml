@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related github prod haha APIs "
+  message: "Welcome to EazyBank accounts related github prod haha APIs newly added"
   contactDetails:
     name: "John Doe Prod - Developer"
     email: "{cipher}647411dc9426a1af61adb0b7992dec53774f37233958bf109328e47ad2b52c38467b660b04d47949a660b8b29103410c"
