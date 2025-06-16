@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related github prod haha APIs newly removed"
+  contactDetails:
+    name: "John Doe Prsdod - Developer"
+    email: "{cipher}647411dc9426a1af61adb0b7992dec53774f37233958bf109328e47ad2b52c38467b660b04d47949a660b8b29103410c"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
